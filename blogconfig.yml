@@ -3,7 +3,7 @@ slug: "example-project-alpha"
 description: "A short description that will appear on the project card and the project page."
 status: "Active"
 startDate: "2026-03"
-thumbnailUrl: "https://raw.githubusercontent.com/TerranovaLabs/example-project-alpha/main/assets/thumbnail.webp"
+thumbnailUrl: ""
 tags:
   - "dotnet"
   - "blazor"
